@@ -1,1 +1,1 @@
-"# wechat-mini-program-collections" 
+test
